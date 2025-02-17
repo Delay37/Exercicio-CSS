@@ -15,3 +15,19 @@ header nav a{
 header nav a:hover{
     color: white;
 }
+article a{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    height: 40px;
+    width: 90;
+    display: inline-block;
+    text-align: center;
+    line-height: 2.5;
+    border: solid black;
+    border-radius: 40px;
+}
+article a:hover{
+    background-color: gray;
+    box-shadow: -10px 10px 5px gray;
+}
