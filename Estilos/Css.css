@@ -1,0 +1,17 @@
+header nav{
+    background-color: black;
+    height: 50px;
+
+}
+header nav a{
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-left: 30px;
+    color: gray;
+    
+}
+header nav a:hover{
+    color: white;
+}
